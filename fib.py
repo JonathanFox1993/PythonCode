@@ -2,7 +2,7 @@
 
 # A program that displays Fibonacci numbers. 
 
-  
+#My name is Jonathan Fox, so the first and last letter of my name (J + N = 10 + 14) give the number  24. The 24th Fibonacci number is 46368.
 
 def fib(n): 
 
