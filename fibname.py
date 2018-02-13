@@ -1,5 +1,9 @@
 # Ian McLoughlin
 # A program that displays Fibonacci numbers using people's names.
+#My surname is Fox#The first letter F is number 70
+#The last letter x is number 120
+#Fibonacci number 190 is 2281217241465037496128651402858212007295
+#The ord() method returns an integer representing Unicode code point for the given Unicode character.
 
 def fib(n):
   """This function returns the nth Fibonacci number."""
