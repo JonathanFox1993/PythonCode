@@ -1,5 +1,3 @@
-# PythonCode
-
 Python Exercises
 
 
@@ -29,3 +27,15 @@ Opens a file and outputs the information formatted
 6)factorial
 
 Returns the factorial of any number you enter
+
+For research on these Exercises I mostly watched videos on youtube and learned how the syntax in python worked.
+
+The best piece of learning for me was the actual python tutorial site
+
+https://docs.python.org/3/tutorial/
+
+I found that it was the best website for straight forward information about the programming langauge.
+
+Struggled the most with the 5th Euler problem but i think its mostly due to not having done basic math in so long and just using a calculator for everything
+
+
